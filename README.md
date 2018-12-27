@@ -31,3 +31,8 @@
 
 ##### (26) Пора вспомнить запахи нового года! В переговорной комнате, на одном из кресел тебя ждет подарок.
 ---
+
+##### (27) Следуй за мной...
+---
+
+![N|Solid](https://raw.githubusercontent.com/secret-santa-for-renata/shenanigans-secret-santa/master/images/santa_2.png)
